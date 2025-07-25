@@ -1,1 +1,1 @@
-# sanika-tikole-sentimental_analysis_for_movie_trailer
+# sentimental_analysis_for_movie_trailer
