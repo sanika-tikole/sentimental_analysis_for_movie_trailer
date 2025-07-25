@@ -48,8 +48,13 @@ pip install torch transformers nltk vaderSentiment wordcloud matplotlib openpyxl
 
 # output
 Average Positive Score: 0.5456307692307693
+
 Average Negative Score: -0.4715076923076923
+
 Final Sentiment Score: 0.0011403550295857993
+
 Number of Neutral Comments: 35
+
 All Positive Words:      wish like kindness better perfect   bold 😂 happy  great  better Best         feeling happy Happy     supports innocent          kind  pretty good      Iphone😂                    Ok nice Great Please ✋          😂😅 amazing   classy  LOVED  good excited  ok great    😂💀 lol    best  
+
 All Negative Words:    hate jealous Keller😭     misery     dislikes    poison         tears dislike worry  dislikes crazy   ruined   blind hiding dislikes  dislikes unstable   nah    sucks bad BSOD hatred   dislikes bad collapsing bad poisoned  stop  Worst  hate dislikes   dislikes           jump😭  flop        Terrible  nah    lost        worst 
